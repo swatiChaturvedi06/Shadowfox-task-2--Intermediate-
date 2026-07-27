@@ -43,15 +43,6 @@ This project was completed as part of the ShadowFox Data Analytics Internship (I
 │── README.md
 ```
 
-## 🚀 How to Run
-1. Clone this repository.
-2. Install the required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Open the notebook in Jupyter Notebook or Google Colab.
-4. Run all cells.
-
 ## 📌 Key Insights
 - Analyzed air quality trends in Delhi.
 - Identified relationships between different pollutants.
